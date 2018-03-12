@@ -9,7 +9,7 @@
     <classes>
       <class name="PracticaEclipse.Unitarias.AritmeticaTest">
         <methods>
-          <include name="testDivision"/>
+          <include name="testResta"/>
           <include name="setUp"/>
           <include name="setOut"/>
         </methods>

@@ -28,7 +28,7 @@ public class AritmeticaTest extends Abstract {
 	}
 
 	@Test
-	public void testResta() {
+	public void testRestaHOL() {
 		try {
 
 			resultado = arit.resta(numero1, numero2);

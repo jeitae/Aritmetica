@@ -28,12 +28,12 @@ public class AritmeticaTest extends Abstract {
 	}
 
 	@Test
-	public void testRestaHOL() {
+	public void testResta() {
 		try {
 
 			resultado = arit.resta(numero1, numero2);
 			
-			Assert.assertEquals(1, resultado);
+			Assert.assertEquals(7, resultado);
 
 		} catch (AssertionError e) {
 
